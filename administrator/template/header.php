@@ -21,7 +21,7 @@
     <link href="assets/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="assets/css/font-awesome/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/font-awesome/font-awesome.min.css" rel="stylesheet">
 
 
 </head>
