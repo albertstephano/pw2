@@ -13,8 +13,6 @@ class View
 	{
 		include_once 'template-depan/navigasi.php';
 		include_once 'template-depan/header.php';
-	
-		
 	}
 
 	protected function end()
